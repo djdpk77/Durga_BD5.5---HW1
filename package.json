@@ -1,0 +1,13 @@
+{
+  "name": "express-simple-starter",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@sequelize/core": "^7.0.0-alpha.43",
+    "express": "^4.21.2",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
